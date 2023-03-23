@@ -1,4 +1,4 @@
-# Hello World Array
+# Hello World Without Main
 
 This is a tiny example program demonstrating a functioning C program without a
 main function. It implements "Hello, world!" using pure assembly instructions
@@ -9,7 +9,7 @@ or Windows, since it relies on the MacOS system call interface.
 
 ## Getting Started
 
-After cloning, run
+After cloning on MacOS, run
 
 ```bash
 make
@@ -18,4 +18,4 @@ make
 
 ## License
 
-This software is provided under the [MIT License](LICENSE). Go wild.
+This software is provided under the [MIT License](LICENSE).
